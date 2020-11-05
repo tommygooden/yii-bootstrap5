@@ -1,5 +1,5 @@
 {
-    "name": "yiisoft/yii-bootstrap5",
+    "name": "tommygooden/yii-bootstrap5",
     "type": "library",
     "description": "Yii Framework Twitter Bootstrap 5 Extension",
     "keywords": [
@@ -8,8 +8,8 @@
     ],
     "license": "BSD-3-Clause",
     "support": {
-        "source": "https://github.com/yiisoft/yii-bootstrap5",
-        "issues": "https://github.com/yiisoft/yii-bootstrap5/issues",
+        "source": "https://github.com/tommygooden/yii-bootstrap5",
+        "issues": "https://github.com/tommygooden/yii-bootstrap5/issues",
         "forum": "http://www.yiiframework.com/forum/",
         "wiki": "http://www.yiiframework.com/wiki/",
         "irc": "irc://irc.freenode.net/yii"
@@ -35,12 +35,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Yiisoft\\Yii\\Bootstrap5\\": "src"
+            "TommyGooden\\Yii2\\Bootstrap5\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Yiisoft\\Yii\\Bootstrap5\\Tests\\": "tests"
+            "TommyGooden\\Yii2\\Bootstrap5\\Tests\\": "tests"
         }
     },
     "extra": {
